@@ -1,3 +1,4 @@
+## Hi Guys ✌️✌️✌️
 - 👋 Hi, My full name is Tran Nhu Thuan but you call me Tay, this is nickname that my paternal family used to call me
 - 👀 I’m interested in photography, i enjoy taking, designing photo and video. Moreover, panting, sport (often play badminton and running), music, especially writing code
 - 🌱 I’m currently learning Data Engineer at University of Technical and Education of Ho Chi Minh City (HCMUTE)
