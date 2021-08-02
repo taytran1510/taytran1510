@@ -1,11 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">I'm Tran Nhu Thuan (Tay)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-## Hi Guys! welcome to my Gitt ✌️✌️✌️
-- 👋 My full name is Tran Nhu Thuan but you call me Tay, this is nickname that my paternal family used to call me
-- 👀 I’m interested in photography, i enjoy taking, designing photo and video. Moreover panting, sport (often play badminton and running), music, especially writing code
-- 🌱 I’m currently learning Data Engineer at University of Technical and Education of Ho Chi Minh City (HCMUTE)
-### 📫 How to reach me: thuantran0164@gmail.com
 <!---
 taytran1510/taytran1510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,7 +9,11 @@ You can click the Preview link to take a look at your changes.
 <div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1ODczMQ==' border='0' alt='logo creation'></a><BR><a >số lượng truy cập</a></div>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+## Hi Guys! welcome to my Gitt ✌️✌️✌️
+- 👋 My full name is Tran Nhu Thuan but you call me Tay, this is nickname that my paternal family used to call me
+- 👀 I’m interested in photography, i enjoy taking, designing photo and video. Moreover panting, sport (often play badminton and running), music, especially writing code
+- 🌱 I’m currently learning Data Engineer at University of Technical and Education of Ho Chi Minh City (HCMUTE)
+### 📫 How to reach me: thuantran0164@gmail.com
 - ### Spotify Playing 🎧
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 <br />
