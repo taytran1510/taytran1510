@@ -8,9 +8,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1ODczMQ==' border='0' alt='logo creation'></a><BR><a >số lượng truy cập</a></div>
   
-![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-AI-darkblue)
-![living](https://img.shields.io/badge/living-BinhThuan-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
