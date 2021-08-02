@@ -14,10 +14,11 @@ You can click the Preview link to take a look at your changes.
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning Python and Machine learning
-- 👯 I’m looking to collaborate on Python projects 
-- 📫 How to reach me: [Instagram](https://www.instagram.com/nghiaazoro) 
-- ⚡ Fun fact: I share... a lot!
+## Hi Guys! welcome to my Gitt ✌️✌️✌️
+- 👋 My full name is Tran Nhu Thuan but you call me Tay, this is nickname that my paternal family used to call me
+- 👀 I’m interested in photography, i enjoy taking, designing photo and video. Moreover panting, sport (often play badminton and running), music, especially writing code
+- 🌱 I’m currently learning Data Engineer at University of Technical and Education of Ho Chi Minh City (HCMUTE)
+### 📫 How to reach me: thuantran0164@gmail.com
 - ### Spotify Playing 🎧
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 <br />
