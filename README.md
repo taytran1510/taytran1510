@@ -13,6 +13,10 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in photography, i enjoy taking, designing photo and video. Moreover panting, sport (often play badminton and running), music, especially writing code
 - 🌱 I’m currently learning Data Engineer at University of Technical and Education of Ho Chi Minh City (HCMUTE)
 ### 📫 How to reach me: thuantran0164@gmail.com
+  
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/taytraann)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/thuantran1510)
+  
 - ### Spotify Playing 🎧
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 <br />
