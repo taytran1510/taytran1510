@@ -1,3 +1,6 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+<h1 align="center">I'm Tran Nhu Thuan (Tay)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 ## Hi Guys! welcome to my Gitt ✌️✌️✌️
 - 👋 My full name is Tran Nhu Thuan but you call me Tay, this is nickname that my paternal family used to call me
 - 👀 I’m interested in photography, i enjoy taking, designing photo and video. Moreover panting, sport (often play badminton and running), music, especially writing code
@@ -7,25 +10,11 @@
 taytran1510/taytran1510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
-<h1 align="center">I'm Zoro<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">I'm a AI engineer from Vietnamese</h3>
-  
-Machine Learning and AI engineer from Vietnames. I'm passionate about AI Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for open source, Cloud computing, DevOps, Innovation and Automation :robot: 
 
 <div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1ODczMQ==' border='0' alt='logo creation'></a><BR><a >số lượng truy cập</a></div>
-  
-![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-AI-darkblue)
-![living](https://img.shields.io/badge/living-BinhThuan-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning Python and Machine learning
-- 👯 I’m looking to collaborate on Python projects 
-- 📫 How to reach me: [Instagram](https://www.instagram.com/nghiaazoro) 
-- ⚡ Fun fact: I share... a lot!
 - ### Spotify Playing 🎧
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 <br />
