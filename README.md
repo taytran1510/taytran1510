@@ -46,25 +46,6 @@ You can click the Preview link to take a look at your changes.
 
 <br >
 
-## 🏆 Github Status
-
-<img  src="https://github-readme-stats.vercel.app/api?username=zorok2&show_icons=true&hide_border=true&theme=dark"> <br/><br/>
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=zorok2&theme=dark"><br/><br/>
-
-<br>
-
-<div align="center">
-
-
-
-
-
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/taytraann)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/thuantran1510)
-
-
-
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
