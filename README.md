@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
 ## Hi Guys! welcome to my Gitt ✌️✌️✌️
-- 👋 My full name is Tran Nhu Thuan but you call me Tay, this is nickname that my paternal family used to call me
-- 👀 I’m interested in photography, i enjoy taking, designing photo and video. Moreover panting, sport (often play badminton and running), music, especially writing code
-- 🌱 I’m currently learning Data Engineer at University of Technical and Education of Ho Chi Minh City (HCMUTE)
+- 👋 Hello, I’m Tran Nhu Thuan, but you can call me Tay.
+- 👀 I have a keen interest in photography, particularly in capturing, designing, and editing both photos and videos. Additionally, I am passionate about painting, sports—especially badminton and running—and music. I also have a strong enthusiasm for coding.
+- 🌱 I have completed a degree in Data Engineering. Currently, I am pursuing a Master degree in Computer Science at the University of Technical Education of Ho Chi Minh City (HCMUTE).
 ### 📫 How to reach me: thuantran0164@gmail.com
   
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/taytraann)
