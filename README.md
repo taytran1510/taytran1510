@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
   
 ## Hi Guys! welcome to my Gitt ✌️✌️✌️
 - 👋 Hello, I’m Tran Nhu Thuan, but you can call me Tay.
-- 👀 I have a keen interest in photography, particularly in capturing, designing, and editing both photos and videos. Additionally, I am passionate about painting, sports—especially badminton and running—and music. I also have a strong enthusiasm for coding.
+- 👀 I have a keen interest in photography, particularly in capturing, designing, and editing. Additionally, I am passionate about painting, sports—especially badminton and running—and USUK music. I also have a strong enthusiasm for coding and data world.
 - 🌱 I have completed a degree in Data Engineering. Currently, I am pursuing a Master degree in Computer Science at the University of Technical Education of Ho Chi Minh City (HCMUTE).
 ### 📫 How to reach me: thuantran0164@gmail.com
   
